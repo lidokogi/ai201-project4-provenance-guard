@@ -1,8 +1,6 @@
 # ai201-project4-provenance-guard
-
-# Provenance Guard
-
 A backend API system that classifies submitted creative text as human-written or AI-generated, returns a transparency label, and handles creator appeals. Built for CodePath AI201 Project 4.
+# Provenance Guard
 
 ---
 
